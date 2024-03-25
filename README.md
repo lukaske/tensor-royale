@@ -8,8 +8,6 @@ Tensor Royale is an incentivised AI collaboration platform. It allows for a perm
 - 🏆 Nethermind - AI integration in blockchain 2nd place
 - 🏆 Filecoin - Build Data Economies & Tools Together with Filecoin Runners Up
 
----
-
 ![alt text](https://github.com/505-solutions/tensor-royale/blob/main/assets/logo-small.png?raw=true)
 
 
